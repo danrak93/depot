@@ -1,6 +1,6 @@
 import React from 'react'
 
-class CreditCardPayType extends Ract.Component {
+class CreditCardPayType extends React.Component {
   render() {
     return(
       <div>
