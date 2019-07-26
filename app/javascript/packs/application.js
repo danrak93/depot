@@ -7,4 +7,7 @@
 // To reference this file, add <%= javascript_pack_tag 'application' %> to the appropriate
 // layout file, like app/views/layouts/application.html.erb
 
+//=require i18n
+//=require i18n/translation
+
 console.log('Hello World from Webpacker')
